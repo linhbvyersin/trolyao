@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <title>Trợ lý ảo hỏi đáp - Du lịch</title>
+</head>
+<body>
+  <h1>🧭 Trợ lý ảo hỏi đáp - Du lịch</h1>
+  <iframe
+    width="400"
+    height="600"
+    allow="microphone;"
+    src="https://console.dialogflow.com/api-client/demo/embedded/eef3e52c-d48f-4381-942a-f1d7460ba80d">
+  </iframe>
+</body>
+</html>
